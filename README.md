@@ -5,7 +5,7 @@
 
 - 小码农 做好每一件小事
 - ⚡ `JavaScript` && `Vue` && `Node`
-- 💬 扣扣邮箱，欢迎一起讨论学习：[machhulie@gmail.com](mailto:machhulie@gmail.com)
+- 💬 邮箱，欢迎一起讨论学习：[machhulie@gmail.com](mailto:machhulie@gmail.com)
 - 兴趣是自己最好的老师
 
 
